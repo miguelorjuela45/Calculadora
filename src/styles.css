@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+*
+{
+    margin: 0%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Abel', sans-serif;
+    color: white;  
+    font-size: 60px;
+}
+body
+{
+    background-color: #2E86C1;
+}
+footer{
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    font-size: 0.4em;
+    text-align: center;
+}
